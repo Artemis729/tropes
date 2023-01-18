@@ -1,3 +1,23 @@
 .ideahead{
     color: blue
 }
+h1, h2, p {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+p{
+    font-size: 20px;
+}
+#body{
+background-color: cadetblue;
+}
+.image{
+    width: 200px;
+}
+.ideahead:hover{
+    color:black
+}
+h1, h2{
+   border: 15px solid purple
+}
