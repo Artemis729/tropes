@@ -2,6 +2,12 @@
     color: darkblue;
 }
 
-h1, h2, p, img {
+h1, h2, p {
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+
+body {
+    background-color: gray;
 }
