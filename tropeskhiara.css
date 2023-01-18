@@ -5,9 +5,22 @@
 h1, h2, p {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+}
+
+p {
     font-size: 12px;
 }
+
 
 body {
     background-color: gray;
 }
+
+#body {
+    background-color: grey;
+}
+
+.image {
+    width: 200px;
+}
+
